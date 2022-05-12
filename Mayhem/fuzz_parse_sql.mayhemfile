@@ -1,0 +1,5 @@
+project: sqlparser-rs
+target: fuzz_parse_sql
+
+cmds:
+  - cmd: /fuzz_parse_sql
